@@ -10,7 +10,6 @@ A lightweight desktop tool for extracting TikTok video URLs from profiles, playl
 - Supports profiles, playlists, and single posts
 - Optional `cookies.txt` support
 - Optional proxy configuration
-- Background extraction keeps the UI responsive
 - Simple, modern PySide6 interface
 
 ## Requirements
